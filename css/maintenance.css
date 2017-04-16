@@ -1,12 +1,15 @@
+/*
+    Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+    Author: david95thinkcode
+    Version:1.0
+    Created: April 2017
+*/
+
 @import 'https://fonts.googleapis.com/css?family=Ubuntu';
 @import 'https://fonts.googleapis.com/css?family=Raleway'; 
 
 body
 {
-    /*
-    width: 100%;
-    height: 100%;
-    */
     background-image: url(../pics/photo-web.jpg);
 }
 
@@ -60,7 +63,7 @@ body
     
 }
 
-/*Smartphone */
+/* Smartphone ans Extra Small devices */
 @media screen and (max-width: 768px)
 {
     
